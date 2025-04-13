@@ -1,0 +1,40 @@
+.navbar {
+    background-color: transparent !important;
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+.image1 {
+    background-image: url('https://themes.3rdwavemedia.com/devstudio/bs5/assets/images/background/promo-background-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: auto;
+    padding-block: 200px;
+}
+
+.image2 {
+    background-image: url('https://themes.3rdwavemedia.com/devstudio/bs5/assets/images/background/promo-background-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: auto;
+    padding-block: 200px;
+}
+
+.image3 {
+    background-image: url('https://themes.3rdwavemedia.com/devstudio/bs5/assets/images/background/promo-background-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: auto;
+    padding-block: 200px;
+}
+
+.image4{
+    background: url('https://themes.3rdwavemedia.com/devstudio/bs5/assets/images/background/cta-background.jpg')
+}
